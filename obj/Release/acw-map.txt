@@ -1,0 +1,4 @@
+App4.MainActivity, APP4;md524f20129d5bc2c6bae7276badeb59b16.MainActivity
+App4.MainActivity, APP4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md524f20129d5bc2c6bae7276badeb59b16.MainActivity
+App4.MainActivity;md524f20129d5bc2c6bae7276badeb59b16.MainActivity
+app4.MainActivity;md524f20129d5bc2c6bae7276badeb59b16.MainActivity
